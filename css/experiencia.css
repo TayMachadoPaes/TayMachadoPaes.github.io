@@ -59,10 +59,18 @@
   color: #111111;
 }
 
+.projetos:hover{
+  color: #A40059;
+}
+
 .empresa-titulo {
   font-size: 1.125rem;
   line-height: 1.1;
   font-weight: bold;
+}
+
+.empresa-titulo:hover{
+  font-size: 1.150rem;
 }
 
 .empresa-texto {
